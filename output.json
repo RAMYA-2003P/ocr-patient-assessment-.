@@ -1,0 +1,39 @@
+{
+    "patient_name": "john",
+    "dob": "12/05/67",
+    "injection": "Yes",
+    "exercise_therapy": "Yes",
+    "difficulty_ratings": {
+        "bending": 3,
+        "putting_on_shoes": 2,
+        "sleeping": 3,
+        "standing": 4,
+        "walking_through_a_store": 3,
+        "driving": 1,
+        "preparing_a_meal": 5,
+        "yard_work": 2,
+        "picking_up_items_off_the_floor": 3
+    },
+    "patient_changes": {
+        "since_last_treatment": "Not good",
+        "since_start_of_treatment": "happy",
+        "last_3_days": "bad"
+    },
+    "pain_symptoms": {
+        "pain": 0,
+        "numbness": 3,
+        "tingling": 0,
+        "burning": 0,
+        "tightness": 0
+    },
+    "medical_assistant_data": {
+        "blood_pressure": "78",
+        "hr": "Unknown",
+        "weight": "78",
+        "height": " ",
+        "spo2": "89",
+        "temperature": "57",
+        "blood_glucose": "65",
+        "respirations": "89"
+    }
+}
