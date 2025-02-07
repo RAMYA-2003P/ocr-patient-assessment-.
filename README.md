@@ -3,7 +3,6 @@ Optical Character Recognition (OCR) and Data Integration Project:
 This project extracts and processes text data from scanned patient assessment forms using Optical Character Recognition (OCR). The extracted text is structured into JSON format and stored in a SQL database.
 
 Features:
-
 Extracts text from JPEG/PDF files using Tesseract OCR.
 
 Parses and structures the extracted data into a JSON format.
@@ -15,12 +14,9 @@ Provides sample JSON output for reference.
 
 
 Technologies Used:
-
 Python
-
 Tesseract OCR / EasyOCR
-
-SQLite / MySQL (for database storage)
+MySQL (for database storage)
 
 
 Repository Structure:
