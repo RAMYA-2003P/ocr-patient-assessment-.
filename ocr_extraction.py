@@ -132,4 +132,4 @@ output_path = r'C:\Users\Ramya\Downloads\intern\output.json'
 with open(output_path, "w") as json_file:
     json_file.write(structured_data)
 
-print(f"✅ Extraction Complete! JSON saved at: {output_path}")
+print(f"Extraction Complete! JSON saved at: {output_path}")
